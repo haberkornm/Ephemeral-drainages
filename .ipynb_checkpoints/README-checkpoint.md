@@ -5,5 +5,6 @@ An analysis of ephemeral drainage geomorpholoy and plant communities in the Whit
 
 <div align="center">
 <img src="docs/channel_morphology.png" alt="MDS of channel morphology, groups identified by geomorphic surface." width="400" height="350">
+<br>
     <em>Multidimensional scaling ordination with Bray-Curtis dissimilarity measure identified four channel morphology categories determined by geomorphic surface (0.9 MDS stress, PERMANOVA p-value < 0.005). </em>
 </div>
