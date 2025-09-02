@@ -15,5 +15,27 @@ This study analyzed the geomorphology of an ephemeral drainage and its associate
 <br>
     <em>Regression of upland and drainage species richness with distance from mountain. Both plant communities have decreasing species richness with distance from the mountain (upland R^2 = 0.61, drainage R^2 = 0.77).  Drainage plant communities were found to have greater species richness along the bajada (paired differences permutation test p-value < 0.001).</em>
 </div>
+<br> 
+    
+<div align="center">
+<img src="docs/drainage_mds.png" alt="MDS of drainage plant communities, groups identified by geomorphic surface or channel morphology." width="400" height="350">
+<br>
+    <em>Multidimensional scaling ordination with Bray-Curtis dissimilarity measure identified four plant communities sperated by channel morphology or geomorphic surface types (0.095 MDS stress, PERMANOVA p-value < 0.05 with Bray-Curtis pairwise distance). </em>
+</div>
+<br> 
+    
+<div align="center">
+<img src="docs/uplands_mds.png" alt="MDS of upland plant communities, groups identified by geomorphic surface." width="400" height="350">
+<br>
+    <em>Multidimensional scaling ordination with Bray-Curtis dissimilarity measure identified three plant communities sperated by geomorphic surface (0.063 MDS stress, PERMANOVA p-value < 0.05 with Bray-Curtis pairwise distance). </em>
+</div>
+<br>   
+    
+<div align="center">
+<img src="docs/upland_drainage_mds.png" alt="MDS of upland and ephemeral drainage plant communities, groups identified by geomorphic surface." width="400" height="350">
+<br>
+    <em>Multidimensional scaling ordination with Bray-Curtis dissimilarity measure identified upland and drainage communities as distinct (0.095 MDS stress, PERMANOVA p-value < 0.05 with Bray-Curtis pairwise distance). </em>
+</div>
+<br>   
     
     
